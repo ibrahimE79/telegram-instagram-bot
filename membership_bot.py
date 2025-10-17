@@ -32,3 +32,6 @@ def main():
 if __name__ == "__main__":
     main()
 
+BOT_TOKEN = "8292271135:AAG6QmZQGeXBW5UNs3XPXZdv1bazQe_e5KU"
+GROUP_ID_1 = "-1003009862668"
+GROUP_ID_2 = "-1002964524418"
