@@ -86,4 +86,9 @@ def main():
 if __name__ == "__main__":
     main()
 
+TOKEN = "8499048158:AAEL3GphtVvEN-ebAq5a4vSb0X0Ru72eXTY "
+API1_KEY = " eb7ae308c3mshbfbe772ba10c139p14a8dcjsnb858b563daf1"
+API1_HOST = "مقدارinstagram120.p.rapidapi.com"
+API2_KEY = " b89b7fea3dmshed191c6121e2cc1p144933jsne66555b96eca' \"
+API2_HOST = "instagram120.p.rapidapi.com"
 
